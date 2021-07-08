@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "md-to-pdf": "^4.0.0"
+  },
+  "name": "markdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nodokaodayaka/study-markdown-to-pdf.git",
+  "author": "nodokaodayaka <wankosob@gmail.com>",
+  "license": "MIT"
+}
